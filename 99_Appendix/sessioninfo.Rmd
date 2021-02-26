@@ -1,6 +1,5 @@
 
 ```{r echo = TRUE}
-
-sessioninfo::session_info()
+sessionInfo()
 ```
 
