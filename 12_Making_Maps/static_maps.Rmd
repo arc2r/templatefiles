@@ -11,7 +11,7 @@ data("swissAlti3D")
 
 ```
 
-```{r }
+```{r echo = TRUE}
 plot(gemeindegrenzen_zh)
 
 
