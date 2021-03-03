@@ -1,5 +1,0 @@
-
-```{r echo = TRUE}
-sessionInfo()
-```
-
